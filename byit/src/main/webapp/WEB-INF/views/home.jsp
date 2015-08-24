@@ -5,7 +5,7 @@
 <title>Home</title>
 </head>
 <body>
-	<h1>Hello naver Jjuri developer! abcd</h1>
+	<h1>Hello naver Jjuri developer! hong</h1>
 
 	<P>The time on the server is ${serverTime}.</P>
 </body>
